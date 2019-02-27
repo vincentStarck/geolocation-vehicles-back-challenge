@@ -11,7 +11,7 @@ Adicioanalmente tiene configurado el uso de websocket para que un cliente reciba
 
 Requistos:<br>
 
-JDK >= 8.X <br>
-maven <br>
-git <br>
-MongoDB  4.0 instalada localmente
+*JDK >= 8.X <br>
+*maven <br>
+*git <br>
+*MongoDB  4.0 instalada localmente
