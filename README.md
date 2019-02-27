@@ -1,6 +1,8 @@
 # geolocation-vehicles-back-challenge
 Proyecto que da de altas vehiculos con puntos de ubicacion:
-permite :  agregar, actualizar punto de ubicaciòn , listar todos los vehiculos, buscar por placa, y obtener puntos de ubucacion por placa
+permite :  agregar vehiculo, actualizar punto de ubicaciòn, listar todos los vehiculos, buscar por placa, y obtener puntos de ubicaciòn por placa
+
+Adicioanalmente tiene configurado el uso de websocket para que un cliente reciba notificaciones cuando algun vehiculo actualice su ubicación.
 
 Requistos:
 
