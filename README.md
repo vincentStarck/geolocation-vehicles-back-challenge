@@ -1,7 +1,8 @@
 # geolocation-vehicles-back-challenge
 Proyecto que da de altas vehiculos con puntos de ubicacion: <br>
 Permite : <br><br>
-*Agregar vehiculo <br> actualizar punto de ubicaciòn de un vehiculo por su placa <br>
+*Agregar vehiculo <br> 
+*Actualizar punto de ubicaciòn de un vehiculo por su placa <br>
 *listar todos los vehiculos <br>
 *Buscar vehiculo  por placa <br> 
 *Obtener puntos de ubicaciòn por placa <br>
